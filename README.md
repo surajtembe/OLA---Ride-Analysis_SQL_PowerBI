@@ -95,8 +95,24 @@ FROM bookings
 WHERE Incomplete_Rides = 'Yes';
 ```
 
-## 5. Dashboard in Power BI
+## Dashboard in Power BI
 Finally I built a interactive dashboard using Power BI to present the insights.
 
-## i. Overall: This shows the booking status background, how is the trend of the bookings over time. 
-![]()
+i. Overall: This shows the booking status background, how is the trend of the bookings over time. 
+ 
+![](Ola-booking_status.png)
+
+ii. Revenue by payment mathod: This shows the prefered payment methods by the customers and total value by payment method used.
+
+![](Ola-revenue.png)
+
+iii. Cancellation status: This shows the ride cancellation rate and the cancellation reasons.
+
+![](Ola-cancellation_status_visualization.png)
+
+## Business Insights
+- Review driver's ratings - The majority of the rides cancelled by the customers gave driver related reasons. This cancellatons
+  						    can be coverted into successfull bookings by adding more high rated drivers
+- Car inspection - The majority rides cancelled by driver gave car related problem reason.
+
+
