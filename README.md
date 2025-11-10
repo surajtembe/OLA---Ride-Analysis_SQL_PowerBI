@@ -96,3 +96,7 @@ WHERE Incomplete_Rides = 'Yes';
 ```
 
 ## 5. Dashboard in Power BI
+Finally I built a interactive dashboard using Power BI to present the insights.
+
+## i. Overall: This shows the booking status background, how is the trend of the bookings over time. 
+![]()
